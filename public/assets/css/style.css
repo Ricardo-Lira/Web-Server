@@ -1,0 +1,17 @@
+footer {
+    background-color: #007bff!important;
+    color: white;
+    width: 100%;
+    position: fixed;
+    bottom: 1px;
+    padding: 10px;
+}
+
+.jumbotron {
+    background-color: #fff !important;
+}
+
+img {
+    margin: 30px;
+    margin-left: -45px;
+}
